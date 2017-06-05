@@ -1,0 +1,13 @@
+name: CityCore
+version: 1.0
+author: Handgelenk
+main: net.nerux.CityCore
+depends: [WorldGuard, WorldEdit]
+commands:
+  city:
+  cityadmin:
+  mayor:
+  town:
+  economy:
+    aliases: [eco]
+  bank:
